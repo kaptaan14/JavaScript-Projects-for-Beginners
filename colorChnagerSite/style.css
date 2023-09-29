@@ -1,0 +1,48 @@
+.buttons{
+    padding: 20px;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-width: 1px;
+    transition: transform .2s;
+    border-radius: 50%;
+    border: none;
+}
+
+.buttons:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+
+.main{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   
+}
+
+.heading{
+    text-align: center;
+}
+
+#lightblue{
+    background-color: lightblue;
+}
+
+#lightgreen{
+    background-color: lightgreen;
+}
+
+#orange{
+    background-color: orange;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#pink{
+    background-color: pink;
+}
+
